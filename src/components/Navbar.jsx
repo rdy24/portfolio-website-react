@@ -9,7 +9,7 @@ const Navbar = () => {
 
   return (
     <>
-      <header className="flex w-full items-center bg-transparent">
+      <header className="fixed flex w-full items-center bg-white">
         <div className="container">
           <div className="relative flex items-center justify-between">
             <div className="px-4">
